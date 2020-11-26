@@ -15,7 +15,7 @@ h1 {
 }
 h2 {
   font-family: Arial, Helvetica, sans-serif;
-  color: #FF0000;
+  color: #FFFFFF;
   text-align: center;
 }
 p {
@@ -28,7 +28,7 @@ p {
   margin-right: auto;
 }
 .img-with-text {
-  text-align: center;
+  text-align: justify;
   width: 300;
 }
 .books {
