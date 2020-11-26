@@ -30,6 +30,7 @@ p {
 .img-with-text {
   text-align: justify;
   width: 300;
+  font-size: small;
 }
 .books {
   background-color: #FF0000
